@@ -51,7 +51,7 @@
    }
   .main-Guagebg{
       fill: none;
-      stroke: rgb(231, 231, 232);
+      stroke: rgb(43, 43, 43);
       stroke-linecap: round;
       stroke-linejoin:round;
       stroke-width: 22px;
@@ -68,7 +68,7 @@
    }
   .main-GuageWhite{
       fill: none;
-      stroke: rgb(255, 255, 255);
+      stroke: rgb(0, 0, 0);
       stroke-linecap: round;
       stroke-linejoin:round;
       stroke-width: 15px;
@@ -151,14 +151,14 @@
 }
  .buttonTxt{
     font-size: 40px;
-    fill: #ffffff;
+    fill: #000000;
     font-family: Roboto-Medium, Roboto;
     font-weight: 500;
     text-anchor:middle;   
  }
  
   .intro-Progress{
-  stroke: #56c4fb;
+  stroke: #bce007;
   stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -168,7 +168,7 @@
    
   }
   .progressElmstart{
-  stroke: #56c4fb;
+  stroke: #bce007;
   stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
